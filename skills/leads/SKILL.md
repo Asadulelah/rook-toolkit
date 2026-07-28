@@ -23,7 +23,7 @@ Load `_system/sales/outreach-method.md` and `strategy/Target Niches.md` from the
 ## The chain
 
 ```
-1. SOURCE    scrape, or use a list he already has
+1. SOURCE    scrape, or use a list you already have
 2. FILTER    cut to the real ICP before spending anything on enrichment
 3. FIND      the founder's email, not info@
 4. VERIFY    every address. non-negotiable.
@@ -133,6 +133,6 @@ plenty at this volume because the ICP filter runs before anything paid.
 
 **Before any run that will consume meaningful credit, say what it will cost and wait for a go.**
 Never burn credits on a speculative scrape. If a job needs more than the free tier, that is
-a decision for him, not an assumption.
+the operator's decision, not an assumption.
 
-**Use his own Apify account.** Never anyone else's token.
+**Use your own Apify account.** Never anyone else's token.

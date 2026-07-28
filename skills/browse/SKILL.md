@@ -5,7 +5,7 @@ author: Asadulelah
 system: Rook Toolkit
 ---
 
-# /browse — his browser, driven
+# /browse — your browser, driven
 
 > **What this unlocks: hand-mined lead research stops being manual.**
 >
@@ -87,7 +87,7 @@ reply rate is what it is.
 ## 🔴 Rules
 
 - **Never type credentials from a screenshot.** If a page redirects to a login, stop and tell the operator.
-- **Never send, post, comment, connect, or message** without an explicit go. Reading and gathering are free. Acting is his call, every time.
+- **Never send, post, comment, connect, or message** without an explicit go. Reading and gathering are free. Acting is the operator's call, every time.
 - **This is a real browser and real accounts.** A wrong click has consequences a scraper never would. Screenshot before and after anything that changes state.
 - **Rate-limit yourself on social platforms.** Aggressive automated browsing on Instagram or LinkedIn from a real logged-in account risks that account. Slow, human-paced, small batches.
 
