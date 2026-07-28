@@ -2,11 +2,13 @@
 
 **Built by Asadulelah.** The hands for Rook.
 
-The brain ([musahib-brain](https://github.com/Asadulelah/musahib-brain)) can read, write,
-reason, and remember. On its own it cannot touch the live web, pull a call recording, or
+A markdown second brain can read, write, reason, and remember. On its own it cannot touch the live web, pull a call recording, or
 build a lead list. **This is what gives it hands.**
 
 Install this second, after the brain.
+
+> Designed for a sales-and-growth operator: someone whose day is calls, lists, follow-ups
+> and decks, not code. Everything here is free and runs locally.
 
 ---
 

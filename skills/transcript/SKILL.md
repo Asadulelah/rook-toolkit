@@ -7,7 +7,7 @@ system: Rook Toolkit
 
 # /transcript — the call, pulled and filed
 
-> **This is the highest-leverage tool in the kit for Musahib**, because he records
+> **The highest-leverage tool in the kit**, because most operators record
 > everything and almost none of it ever gets written down. A call that isn't written down
 > stops existing about four days later.
 

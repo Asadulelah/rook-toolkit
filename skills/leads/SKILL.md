@@ -128,10 +128,10 @@ Hand off to `/outreach` to build the batch.
 
 ## Money
 
-🔴 **Free tier only unless he says otherwise.** Apify gives ~$5/month of credit, which is
+🔴 **Free tier only unless told otherwise.** Apify gives ~$5/month of credit, which is
 plenty at this volume because the ICP filter runs before anything paid.
 
-**Before any run that will consume meaningful credit, say what it will cost and wait.**
+**Before any run that will consume meaningful credit, say what it will cost and wait for a go.**
 Never burn credits on a speculative scrape. If a job needs more than the free tier, that is
 a decision for him, not an assumption.
 
